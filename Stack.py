@@ -31,3 +31,5 @@ print("The element deleted is", s.pop())
 print("Size of stack after deleting an element", s.Size())
 print("Top of stack after deleting an element", s.Top())
 
+#TC=O(1)
+#SC=O(Size 0f array)
